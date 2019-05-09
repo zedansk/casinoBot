@@ -1,0 +1,31 @@
+{
+  "name": "casinobot",
+  "version": "1.0.0",
+  "description": "A gambling bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "gambling"
+  ],
+  "author": "Entropy",
+  "license": "ISC",
+  "dependencies": {
+    "dblapi.js": "^2.3.0",
+    "discord-money": "^0.2.0",
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.4.2",
+    "fast-csv": "^2.4.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "sleep": "^6.0.0",
+    "slot-machine.js": "^1.0.7",
+    "sqlite3": "^4.0.6",
+    "winston": "^3.2.1",
+    "quick.db": "7.0.0-b21"
+  },
+  "devDependencies": {}
+}
